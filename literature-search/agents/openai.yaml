@@ -1,0 +1,3 @@
+display_name: 医学文献检索
+short_description: 执行 PubMed 检索并输出 JSONL 和 CSV 文件
+default_prompt: 使用已确认的检索式执行 PubMed 文献检索，输出 papers.jsonl、papers.csv 和阶段性报告。

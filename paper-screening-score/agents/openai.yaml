@@ -1,0 +1,3 @@
+display_name: 文献筛选评分
+short_description: 按用户配置标准筛选医学文献并评分
+default_prompt: 根据我的综述类型、纳排标准和评分权重，对检索结果进行筛选评分并输出报告。

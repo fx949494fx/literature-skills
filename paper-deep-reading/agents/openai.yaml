@@ -1,0 +1,3 @@
+display_name: 医学文献精读
+short_description: 为核心医学文献生成中文精读笔记和综述用途
+default_prompt: 基于 evidence packets 或全文材料，对核心医学文献进行中文精读并输出阶段报告。

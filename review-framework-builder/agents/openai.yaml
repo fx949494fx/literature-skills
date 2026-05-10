@@ -1,0 +1,3 @@
+display_name: 综述框架构建
+short_description: 基于证据包生成医学综述框架和证据分配表
+default_prompt: 根据 evidence packets 和精读笔记，为医学综述生成中心论点、章节框架、证据分配和图表计划。

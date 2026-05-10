@@ -1,0 +1,3 @@
+display_name: Zotero 文献管理
+short_description: 将审查后的医学文献整理为 Zotero 导入计划
+default_prompt: 根据筛选结果整理 Zotero 可导入文件、标签方案、collection 计划和阶段报告。

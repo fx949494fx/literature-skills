@@ -1,0 +1,13 @@
+{
+  "review_type": "clinical_review",
+  "scoring_criteria": {
+    "topic_relevance": 0.35,
+    "method_quality": 0.2,
+    "evidence_level": 0.2,
+    "recency": 0.15,
+    "novelty_or_clinical_value": 0.1
+  },
+  "inclusion_criteria": [],
+  "exclusion_criteria": [],
+  "reason_rule": "reason 字段只写 1-2 句话。"
+}

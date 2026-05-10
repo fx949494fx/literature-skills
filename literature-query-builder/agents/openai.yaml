@@ -1,0 +1,3 @@
+display_name: 医学检索式生成
+short_description: 为医学综述生成可审查的数据库检索策略
+default_prompt: 根据我的医学研究方向生成 PubMed 等数据库检索式，并输出阶段性报告。

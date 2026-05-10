@@ -1,0 +1,3 @@
+display_name: 文献元数据抽取
+short_description: 从医学文献记录生成可追溯证据包和矩阵
+default_prompt: 从检索和筛选结果中抽取文献元数据、研究设计、指标、结局和综述用途，生成 evidence packets。

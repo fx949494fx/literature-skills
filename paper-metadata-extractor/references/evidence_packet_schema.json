@@ -1,0 +1,36 @@
+{
+  "paper_id": "",
+  "title": "",
+  "citation": "",
+  "citation_placeholder": "",
+  "year": "",
+  "doi": "",
+  "pmid": "",
+  "study_design": "unclear",
+  "population": "unclear",
+  "population_context": "unclear",
+  "key_concepts": [],
+  "outcomes": [],
+  "evaluation_metrics": [],
+  "main_finding_signal": "unclear",
+  "limitations_signal": "unclear",
+  "review_use": "unclear",
+  "review_contribution": "unclear",
+  "contribution_points": [],
+  "usable_claims": [
+    {
+      "claim": "",
+      "citation": "",
+      "evidence_basis": "abstract_or_metadata",
+      "needs_full_text_check": true
+    }
+  ],
+  "deep_reading_status": "not_started",
+  "deep_reading_basis": "",
+  "screening_decision": "",
+  "screening_score": 0,
+  "source_trace": {
+    "abstract_available": false,
+    "source": "PubMed"
+  }
+}

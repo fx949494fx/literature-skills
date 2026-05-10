@@ -1,0 +1,3 @@
+display_name: 医学文献综述流程总控
+short_description: 分阶段组织医学文献检索筛选与综述准备流程
+default_prompt: 根据我的医学研究方向，分阶段组织数据库选择、检索式生成、文献检索和筛选评分流程。
