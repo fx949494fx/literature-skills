@@ -1,0 +1,3 @@
+display_name: Obsidian 文献笔记交接
+short_description: 将 literature-skills 输出转换为 Obsidian vault 文献笔记、frontmatter 和增量纳入计划
+default_prompt: 根据已审查的筛选结果、Zotero 计划、evidence packets 和精读结果，生成 Obsidian 文献笔记交接包和阶段性报告。
